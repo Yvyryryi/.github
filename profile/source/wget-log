@@ -1,0 +1,7 @@
+--2024-10-06 17:57:51--  https://media.discordapp.net/attachments/1291877615157907603/1292683900664942642/YVYRYRYI_blanco.png?ex=6704a132
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving media.discordapp.net (media.discordapp.net)... 162.159.133.232, 162.159.134.232, 162.159.129.232, ...
+Connecting to media.discordapp.net (media.discordapp.net)|162.159.133.232|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2024-10-06 17:57:51 ERROR 404: Not Found.
+
