@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="assets/logo.webp" align="center" alt="Logo" />
+    <img src="source/logo.webp" align="center" alt="Logo" />
   </p>
 </div>
 
